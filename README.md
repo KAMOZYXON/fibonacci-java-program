@@ -1,2 +1,2 @@
 # fibonacci-java-program
-java ptogram of numbers of fibonacci sequence/series
+java program of numbers of fibonacci sequence/series
